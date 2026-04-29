@@ -16,7 +16,7 @@ const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
 
 app.get('/api/models', async (req, res) => {
   try {
-    const models = await ai.listModels();
+    const models = await ai.models.list();
     res.json(models);
   } catch (error) {
     res.status(500).json({ error: error.message });
