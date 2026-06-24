@@ -44,6 +44,3 @@ A high-performance, premium AI chatbot built with React, Node.js, and Google's G
 - **Frontend**: React, Vite, Framer Motion, Lucide Icons, Axios.
 - **Backend**: Node.js, Express, Google Generative AI SDK.
 - **Styling**: Vanilla CSS (Modern Design System).
-
----
-Built with ❤️ by Antigravity
