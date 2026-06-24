@@ -1,5 +1,7 @@
 # Zenith AI - Premium AI Chatbot
 
+![Zenith AI Chatbot Interface](sample.png)
+
 A high-performance, premium AI chatbot built with React, Node.js, and Google's Gemini AI.
 
 ## Features
